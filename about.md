@@ -1,7 +1,10 @@
 ---
 layout: page
-title: 关于我 
+title: 关于leopardpan 
 ---
+此博客模板是使用 leopardpan 的博客模板
+
+leopardpan自述:
 
 一个工作6年的 iOS SDK 开发者，在一家游戏公司做SDK开发和维护。
 
